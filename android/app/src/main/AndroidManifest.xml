@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mmtech.tic_tac_toe.tic_tact_toe">
+    package="com.mmtech.tic_tac_toe">
    <application
-        android:label="tic_tact_toe"
+        android:label="Tic Tac Toe"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
